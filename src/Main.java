@@ -89,9 +89,6 @@ public class Main {
                 break;}
         } else   {System.out.println("Месяц года указан некорректно");}
 
-
-
-
     }
 }
 
